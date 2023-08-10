@@ -11,7 +11,10 @@ I have loaded a dataset named "Groceries_dataset.csv" using Pandas and performed
 I have created visualizations using Seaborn to explore the data. I have created bar plots to visualize the top 5 most frequent item descriptions and a line plot to show the purchase frequency over time (monthly).
 Purchase Count Analysis: You've analyzed the purchase count per member and created a bar plot to visualize the purchase count for the top 9 members.
 ![Screenshot (162)](https://github.com/AmandeepkaurCSE/CodeClauseInternship_MarketBasketAnalysis/assets/64351796/c16102da-dd41-441f-94fb-e03b5199b1cc)
-![Screenshot (164)](https://github.com/AmandeepkaurCSE/CodeClauseInternship_MarketBasketAnalysis/assets/64351796/a5d2789b-465d-4809-a61a-7d9c8af5eb22)
+
+![Screenshot (166)](https://github.com/AmandeepkaurCSE/CodeClauseInternship_MarketBasketAnalysis/assets/64351796/20ab9feb-21ce-48d8-b733-58717ab4cd08)
+
+
 ![Screenshot (163)](https://github.com/AmandeepkaurCSE/CodeClauseInternship_MarketBasketAnalysis/assets/64351796/18857115-6365-475f-9c6d-d0f1ef835f00)
 
 #### Apriori Algorithm: 
