@@ -1,4 +1,4 @@
-## CodeClauseInternship MarketBasketAnalysis
+## CodeClauseInternship Market Basket Analysis
 
 #### Importing Libraries: 
 I have imported necessary libraries like NumPy, Pandas, Matplotlib, Seaborn, and the MLxtend library for association rule mining.
